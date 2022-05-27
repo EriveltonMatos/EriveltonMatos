@@ -24,4 +24,5 @@
 <div> <a href = "mailto:eriveltonmatos@hotmail.com">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> <a href="https://www.linkedin.com/in/erivelton-matos-5a7587123" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div> 
-![Snake animation](https://github.com/EriveltonMatos)
+
+![Snake animation](https://github.com/EriveltonMatos/EriveltonMatos/blob/output/github-contribution-grid-snake.svg)
