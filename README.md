@@ -1,7 +1,7 @@
-### Hello World! I'm Erivelton Matos 
-- 🌱 I'm currently studying front-end development 
+### Olá mundo! Me chamo Erivelton Matos 
+- 🌱 Atualmente estudando desenvolvimento Front-End
 - 💬 contact me on email: eriveltonmatos@hotmail.com 
-- ⚡ Fun fact: I can't study without listening to background music (rain noise, for example, calms me down =D 
+- ⚡ Fun fact: Não consigo estudar sem ouvir música ambiente (Barulho de chuva por exemplo, me acalma =D)
 <div align="center"> 
 <a href="https://github.com/EriveltonMatos"> 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eriveltonmatos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> 
