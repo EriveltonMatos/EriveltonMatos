@@ -1,6 +1,9 @@
-### Olá mundo! Me chamo Erivelton Matos 
+# Olá mundo! Me chamo Erivelton Matos 
+## Apaixonado por tecnologia e por música (principalmente Rock 🤘) venho estudando e buscando uma oportunidade de transição de carreira para a área de desenvolvimento.
 - 🌱 Atualmente estudando desenvolvimento Front-End
 - 💬 contact me on email: eriveltonmatos@hotmail.com 
+- 👨‍🎓 Sou formado em Sistemas de Informação 
+- 📚 Ultimamente venho estudando de 8 à 10 horas por dia.
 - ⚡ Fun fact: Não consigo estudar sem ouvir música ambiente (Barulho de chuva por exemplo, me acalma =D)
 <div align="center"> 
 <a href="https://github.com/EriveltonMatos"> 
