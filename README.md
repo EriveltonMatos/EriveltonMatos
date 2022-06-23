@@ -1,5 +1,5 @@
 # Olá mundo! Me chamo Erivelton Matos 
-## Apaixonado por tecnologia e por música (principalmente Rock 🤘) venho estudando e buscando uma oportunidade de transição de carreira para a área de desenvolvimento.
+## Apaixonado por tecnologia e por música (principalmente Rock 🤘) venho estudando e buscando uma sempre conhecimento a cada dia.
 - 🌱 Atualmente estudando desenvolvimento Front-End
 - 💬 contact me on email: eriveltonmatos@hotmail.com 
 - 👨‍🎓 Sou formado em Sistemas de Informação 
