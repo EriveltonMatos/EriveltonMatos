@@ -18,7 +18,7 @@
 
 </div>
 <div style="display: inline_block"><br> 
-<h1>Tchnologies:</h1>
+<h1>Technologies:</h1>
 <img align="center" alt="erivelton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
 <img align="center" alt="erivelton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
 <img align="center" alt="erivelton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
