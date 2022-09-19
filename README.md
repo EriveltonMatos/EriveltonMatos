@@ -1,10 +1,10 @@
-# Olá mundo! Me chamo Erivelton Matos 
-## Apaixonado por tecnologia e por música (principalmente Rock 🤘) venho estudando e buscando conhecimento a cada dia.
-- 🌱 Atualmente estudando desenvolvimento Front-End
-- 💬 contact me on email: eriveltonmatos@hotmail.com 
-- 👨‍🎓 Sou formado em Sistemas de Informação 
-- 📚 Ultimamente venho estudando de 8 à 10 horas por dia.
-- ⚡ Fun fact: Não consigo estudar sem ouvir música ambiente (Barulho de chuva por exemplo, me acalma =D)
+# Hello World, My name is Erivelton Matos;
+## I believe that with technology we can make the world a better place;
+- 🌱 Currently studying fullstack development with react and spring;
+- 💬 contact me on email: eriveltonmatos@hotmail.com;
+- 👨‍🎓 I'm graduated in Information Systems; 
+- 📚 I work as a java developer with Spring in Fortaleza / BR;
+- ⚡ Fun fact: I can't study without listening to background music (rain noise, for example, calms me down)
 <div align="center"> 
 <a href="https://github.com/EriveltonMatos"> 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eriveltonmatos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> 
@@ -37,6 +37,5 @@
 
 <div align="center"> 
 
-![mario_sergio_faca_o_teu_melhor_na_condicao_que_voce_tem_l8rzrj9 (1)](https://user-images.githubusercontent.com/103468962/171071587-20d07ec7-7067-464d-adbb-93f276e5aed6.jpg)
 
 
