@@ -46,6 +46,9 @@
 <img align="center" alt="erivelton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
 <img align="center" alt="erivelton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 <img align="center" alt="erivelton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+<img align="center" alt="erivelton-Csharp" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor"> 
+<img align="center" alt="erivelton-Csharp" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=148&color=currentColor"> 
+<img align="center" alt="erivelton-Csharp" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=148&color=currentColor"> 
 </div> 
 
 ## 
