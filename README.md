@@ -1,9 +1,10 @@
-# Hello World, My name is Erivelton Matos;
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+## My name is Erivelton Matos
 ## I believe that with technology we can make the world a better place;
-- 🌱 Currently studying fullstack development with react and spring;
+- 🌱 Currently studying fullstack development with Angular and Spring;
 - 💬 contact me on email: eriveltonmatos@hotmail.com;
 - 👨‍🎓 I'm graduated in Information Systems; 
-- 📚 I work as a java developer with Spring in Fortaleza / BR;
+- 📚 I work as a fullstack developer with Next.js/Spring in Fortaleza / BR;
 - ⚡ Fun fact: I can't study without listening to background music (rain noise, for example, calms me down)
 <div align="center"> 
 <a href="https://github.com/EriveltonMatos"> 
@@ -19,8 +20,6 @@
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-
-Generates a snake game from a github user contributions graph
 
 <picture>
   <source
