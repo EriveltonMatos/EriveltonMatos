@@ -7,9 +7,11 @@
 - 📚 I work as a fullstack developer with Next.js/Spring in Fortaleza / BR;
 - ⚡ Fun fact: I can't study without listening to background music (rain noise, for example, calms me down)
 <div align="center"> 
+<br><br>
 <a href="https://github.com/EriveltonMatos"> 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriveltonmatos&layout=compact&langs_count=7&theme=chartreuse-dark"/> 
 </div>
+
 
 </div>
 <div style="display: inline_block"><br> 
