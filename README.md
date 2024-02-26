@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I can't study without listening to background music (rain noise, for example, calms me down)
 <div align="center"> 
 <a href="https://github.com/EriveltonMatos"> 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=eriveltonmatos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriveltonmatos&layout=compact&langs_count=7&theme=chartreuse-dark"/> 
 </div>
 
